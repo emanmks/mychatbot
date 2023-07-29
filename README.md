@@ -10,3 +10,7 @@ Personalized chat bot with fine tune supporting AI model.
 ## Project Skeleton
 
 Inspired by: [FlasSvelte](https://github.com/emanmks/flasvelte) by [Me](https://github.com/emanmks)
+
+## References
+
+- [Add TailwindCSS](https://dev.to/altierii/how-to-install-tailwind-css-with-svelte-vite-1kj6)
